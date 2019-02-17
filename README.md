@@ -1,5 +1,6 @@
 # Mindera | Graduate Program
 João Alegria | jt_alegria@hotmail.com | 913881828
+
 Exercício escolhido "Dummy User-Interface" em React.
 
 ### Bibliotecas Utilizadas
