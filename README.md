@@ -16,6 +16,6 @@ styled-components
 > $ npm install --save styled-components
 
 
-### Observações
+### Notes
  - For this exercise submission , the folder *node_modules*, was not taken into account.
  - Since the provided recording did not display the *vacancies* and *graduate program* pages, both direct the user to an "undeveloped" page.
