@@ -6,7 +6,6 @@ export default function CardSmall(props) {
             <div className="card" style={{ width: '18rem' }}>
                 <img src="http://www.ignytebrands.com/wp-content/uploads/gray.png"
                     className="card-img-top mx-auto d-block"
-                    /*style={{paddingTop:'3px', width:'100px', height:'100px'}}*/
                     alt="..." />
 
                 <div className="card-body">

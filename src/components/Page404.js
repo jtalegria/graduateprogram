@@ -2,7 +2,7 @@ import React from 'react';
 export default function() {
     return(
         <h1>
-            Página não encontrada
+            Page not found
         </h1>
     )
 }

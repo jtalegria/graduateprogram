@@ -19,14 +19,12 @@ export default function Card(props) {
                 <Link to={card_url}>
                     <img src="http://www.ignytebrands.com/wp-content/uploads/gray.png"
                         className="card-img-top mx-auto d-block"
-                        /*style={{paddingTop:'3px', width:'100px', height:'100px'}}*/
                         alt="..." />
                 </Link>
 
                 <StyledLink to={card_url}>
                     <div className="card-body">
-                        <h5 className="card-title"
-                            style={{ height: '30px' }}>
+                        <h5 className="card-title" style={{ height: '30px' }}>
                             {props.title}
                         </h5>
                     </div>
